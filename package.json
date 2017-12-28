@@ -1,0 +1,11 @@
+{
+  "name": "nitya-personal",
+  "version": "1.0.0",
+  "description": "Personal Site Code",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
