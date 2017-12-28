@@ -5,7 +5,7 @@
   font-family: 'Roboto';
   color: #003366;
   margin: 0;
-  border: 15px solid #150631;
+  border: 6px solid #150631;
 }
 
 .title {
@@ -29,8 +29,10 @@ h2 {
 
 a {
   color: #003366;
+  text-decoration: none;
 }
 
 a:hover {
   color: #75c9d1;
+  text-decoration: underline;
 }
