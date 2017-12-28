@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal Site Code",
   "scripts": {
-    "start": "harp server ./homepage.html --port $PORT"
+    "start": "harp server --port $PORT"
   },
   "dependencies": {
     "harp": "*"
